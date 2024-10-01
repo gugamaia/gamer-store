@@ -7,7 +7,7 @@ const font = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: "Gamer.Store",
+  title: "G4m3r.5t0r3",
   description: "Newest version for your favorite store",
 };
 
